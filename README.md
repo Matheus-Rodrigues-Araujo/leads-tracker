@@ -1,5 +1,6 @@
 # leads-tracker
-
+![how_it_looks](https://user-images.githubusercontent.com/68081476/161401684-2c592268-19ab-4b81-a89b-266baacdc098.png)
+![running_the_extension](https://user-images.githubusercontent.com/68081476/161401713-52ff9836-0f5c-4703-a7c9-0d85f4c0d335.png)
 ------------ About the extension ----------
 
 This was an extension I developed to save urls of websites that I use a lot. It is very easy and intuitive to use, as there are only three simple features:
@@ -29,3 +30,5 @@ This was an extension I developed to save urls of websites that I use a lot. It 
 * 1st: Go to "chrome://extensions/"
 * 2nd: Click on the top "load uncompressed" button on the left side
 * 3rd: Add the files and test the extension :)
+* ![deploy](https://user-images.githubusercontent.com/68081476/161401788-31b3dcbc-e790-462f-b4db-320cbf77aeee.png)
+
