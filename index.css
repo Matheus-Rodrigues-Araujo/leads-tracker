@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+    /* min-height: 200px; */
+    /* background: rgb(2,0,36);
+    background: linear-gradient(
+        180deg, rgba(2,0,36,1) 0%,
+        rgba(168,12,12,1) 44%,
+        rgba(0,212,255,1) 100%); */
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #5f9341;
+    margin-bottom: 4px;
+}
+
+button {
+    background-color: rgba(41, 139, 19, 0.8);
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid rgb(81, 197, 55);
+    font-weight: bold;
+}
+
+#input-btn:hover{
+    background-color: rgb(81, 197, 55);
+    border: 1px solid rgb(81, 197, 55);
+}
+
+#delete-btn{
+    background-color: rgba(220, 5, 10,0.8);
+    border: 1px solid rgba(220, 5, 10,0.8);
+}
+#delete-btn:hover{
+    background-color: rgb(255, 4, 8);
+    border: 1px solid rgb(255, 4, 8);
+}
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: #5f9341;
+}
