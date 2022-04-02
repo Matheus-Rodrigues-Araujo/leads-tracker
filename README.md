@@ -1,5 +1,7 @@
 # leads-tracker
+
 ------------ About the extension ----------
+
 This was an extension I developed to save urls of websites that I use a lot. It is very easy and intuitive to use, as there are only three simple features:
 * Save URL via input;
 * Copy the guide ;
