@@ -4,6 +4,7 @@
 ------------ About the extension ----------
 
 This was an extension I developed to save urls of websites I use a lot. It's very easy and intuitive to use, feel free to try it out
+
 ------------ functionalities --------------
 * Save URL via input;
 * Copy the guide ;
